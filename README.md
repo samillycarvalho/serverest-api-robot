@@ -33,7 +33,7 @@
 ### Clone o projeto
 
 ```jsx
-git clone [git@github.com](mailto:git@github.com):samillycarvalho/academy-api-robot.git
+git clone git@github.com:samillycarvalho/serverest-api-robot.git
 ```
 
 ### Entre no diretorio
