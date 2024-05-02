@@ -39,7 +39,7 @@ git clone git@github.com:samillycarvalho/serverest-api-robot.git
 ### Entre no diretorio
 
 ```jsx
-cd academy-api-robot
+cd serverest-api-robot
 ```
 
 ### Entre no vscode
